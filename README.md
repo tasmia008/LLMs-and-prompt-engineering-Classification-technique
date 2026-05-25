@@ -27,8 +27,6 @@ This project is a hands-on study in modern applied AI, covering five overlapping
 | **Cybersecurity Domain** | Vulnerability triage workflow; risk taxonomy (`HIGH / MEDIUM / LOW / SAFE / UNCERTAIN`); the value of domain-specific pretraining (SecureBERT, CodeBERT) over general-purpose models. |
 | **Software Engineering** | CLI design with `argparse`; reproducibility via sample data generation; logging and error handling; configuration-as-data patterns (`MODEL_TYPE_MAP`, `PromptTechnique` enum) for extensibility. |
 
-**The bigger takeaway:** real-world ML systems are mostly *scaffolding* — data loading, normalization, voting, confidence calibration, fallback paths — with the model as one component, not the whole show.
-
 ---
 
 ## Installation
